@@ -1,0 +1,18 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+
+# Reproducible generated artifacts
+outputs/
+old/
+data/cache/
+data/processed/
+
+# Local parser/model artifacts
+marker_json/
+*.log
+
+# Local presentation export kept out of source control
+Quintes_AML_final presentation(2).pptx

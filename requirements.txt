@@ -1,0 +1,10 @@
+pandas
+pyarrow
+numpy
+python-dotenv
+openai
+marker-pdf==1.10.2
+accelerate
+beautifulsoup4
+lxml
+pymupdf
